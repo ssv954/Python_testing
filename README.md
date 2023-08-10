@@ -1,5 +1,8 @@
 # Basic Python
 
+## Download Python for Installation
+Go to `https://www.python.org/` for download files and install file to run python
+
 ## Create Environment
 
 Run `py -m venv env` for a dev server.
