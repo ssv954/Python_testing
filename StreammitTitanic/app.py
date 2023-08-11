@@ -2,7 +2,7 @@ import streamlit as st
 from joblib import load
 from sklearn.preprocessing import StandardScaler
 
-model_load = load('../MyModelTrain/titatic_survival.joblib')
+model_load = load('titatic_survival.joblib')
 
 # web title
 st.title('Titanic Survival Prediction')
